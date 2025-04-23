@@ -53,6 +53,7 @@ h1 {
 }
 
 .video-container {
+    
     position: relative;
     width: 100%;
     aspect-ratio: 16/8;
@@ -61,7 +62,6 @@ h1 {
 }
 
 #videoElement {
-   
     position: absolute;
     top: 0;
     left: 0;
