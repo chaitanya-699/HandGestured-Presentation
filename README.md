@@ -179,8 +179,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any queries or support, please contact:
-- Email: your.email@example.com
-- GitHub: [your-github-username]
+- Email: chaitanyapotti0@gmail.com
+- GitHub: chaitanya-699
 
 ## Future Enhancements
 - Multi-user collaboration
@@ -190,12 +190,6 @@ For any queries or support, please contact:
 - Analytics dashboard
 - Voice command integration
 
-
-## Screenshots
-[Add screenshots of your application here]
-
-## Demo Video
-[Add link to demo video here]
 
 ## Troubleshooting
 
